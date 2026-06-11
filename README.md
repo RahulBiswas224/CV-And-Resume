@@ -9,17 +9,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a high-achieving **BCA (Honours) student with a 9.40 CGPA**, bridging the gap between modern full-stack web development and robust cloud architecture. Through the **AWS re/Start program**, I have developed a deep, automation-first understanding of infrastructure provisioning, security hardening, and high-availability design. 
 
-- 🎓 **Education:** Pursuing Bachelor of Computer Applications (Hons) at Brainware University (2023 – 2027).
-- ☁️ **Cloud Focus:** Active candidate for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam.
-- 💡 **Mindset:** Passionate about building performant, event-driven architectures and treating infrastructure as code.
+-  **Education:** Pursuing Bachelor of Computer Applications (Hons) at Brainware University (2023 – 2027).
+-  **Cloud Focus:** Active candidate for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam.
+-  **Mindset:** Passionate about building performant, event-driven architectures and treating infrastructure as code.
 
 ---
 
-## 🛠️ Technical Ecosystem
+##  Technical Ecosystem
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -33,46 +33,46 @@ I am a high-achieving **BCA (Honours) student with a 9.40 CGPA**, bridging the g
 
 ---
 
-## 📁 Highlighted Projects
+##  Highlighted Projects
 
-### 🌐 Full-Stack Applications
+###  Full-Stack Applications
 
-#### ⚡ **QuickForm — Drag & Drop Form Builder** | [GitHub](https://github.com/RahulBiswas224/QuickForm-) | [Live Demo](https://quickform.vercel.app)
+####  **QuickForm — Drag & Drop Form Builder** | [GitHub](https://github.com/RahulBiswas224/QuickForm-) | [Live Demo](https://quickform.vercel.app)
 - **Tech Stack:** Node.js, Express, React, Prisma, Neon PostgreSQL, BullMQ, Upstash Redis, Vercel, Render.
 - **Key Metrics:** Implemented an asynchronous BullMQ + Upstash Redis email queue for form submission notifications, **reducing API response times by 40%** by offloading mail delivery from the main runtime loop.
 - **Features:** Drag-and-drop fields using `dnd-kit`, JWT authentication, public form sharing via custom slugs (`/f/:slug`), response dashboards, CSV export, and form expiry configurations.
 
-#### ☕ **Easy PetPuja – Online Meal Booking Platform** | [GitHub](https://github.com/RahulBiswas224/EasyPetpuja-)
+####  **Easy PetPuja – Online Meal Booking Platform** | [GitHub](https://github.com/RahulBiswas224/EasyPetpuja-)
 - **Tech Stack:** Node.js, Express.js, React.js, MongoDB/MySQL, Razorpay API.
 - **Impact:** Collaborated in a development team under university supervision to design a canteen meal booking system. Integrated Razorpay gateway to **automate order verification and drastically reduce manual queue times**.
 
-#### 💬 **QuickChat — Multi-threaded Java Chat Server** | [GitHub](https://github.com/RahulBiswas224/QuickChat-)
+####  **QuickChat — Multi-threaded Java Chat Server** | [GitHub](https://github.com/RahulBiswas224/QuickChat-)
 - **Tech Stack:** Java, Sockets, Multithreading, Swing GUI, ConcurrentHashMap, File I/O.
 - **Performance:** Built a high-performance TCP client-server chat application utilizing a dedicated runtime thread per active client, **successfully handling 50+ concurrent connections** without performance drops. Features daily log file rotation and admin controls (`/kick`, `/broadcast`).
 
 ---
 
-### ☁️ Cloud Infrastructure & DevOps (AWS re/Start)
+###  Cloud Infrastructure & DevOps (AWS re/Start)
 
-#### 🏗️ **Infrastructure as Code – AWS CloudFormation Deployment**
+####  **Infrastructure as Code – AWS CloudFormation Deployment**
 - **Core Focus:** Automated complete infrastructure lifecycle management using **YAML/JSON CloudFormation templates**.
 - **Execution:** Provisioned repeatable, standardized cloud environments including EC2 instances, VPCs, security groups, and S3 buckets with built-in rollback mechanism handling.
 
-#### 🔄 **Scalable High-Availability Architecture on AWS**
+####  **Scalable High-Availability Architecture on AWS**
 - **Core Focus:** Fault-tolerant and auto-remediating network architecture design.
 - **Execution:** Configured **Amazon EC2 Auto Scaling** and **Elastic Load Balancing (ELB)** under variable CPU thresholds. Set up **Amazon Route 53** failover routing for DNS-level disaster recovery.
 
-#### ⚡ **Serverless Event-Driven Application**
+####  **Serverless Event-Driven Application**
 - **Core Focus:** Serverless microservices orchestration.
 - **Execution:** Exposed **AWS Lambda** functions as RESTful endpoints via **Amazon API Gateway**. Configured least-privilege IAM execution roles and utilized **CloudWatch Logs** + **AWS Step Functions** for workflow state verification.
 
-#### 🏪 **AWS Cloud Café – Multi-Tier Web Migration**
+####  **AWS Cloud Café – Multi-Tier Web Migration**
 - **Core Focus:** Simulating full-stack application cloud migration scenarios.
 - **Execution:** Migrated local components to **Amazon RDS (Aurora/MySQL)** using the **AWS Database Migration Service (DMS)**. Configured S3 lifecycle policies for static hosting and integrated **AWS Trusted Advisor** for structural cost optimization.
 
 ---
 
-## 📜 Certifications & Training
+##  Certifications & Training
 
 - **AWS re/Start Program** – Cloud Trainee (Active Prep for AWS Solutions Architect Associate SAA-C03) | *Amazon Web Services (2026)*
 - **Programming in Java** – Elite Certification | *NPTEL (IIT Certification) (2025)*
@@ -80,7 +80,7 @@ I am a high-achieving **BCA (Honours) student with a 9.40 CGPA**, bridging the g
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulBiswas224&show_icons=true&theme=tokyonight&count_private=true" alt="Rahul's GitHub Stats" />
@@ -90,7 +90,6 @@ I am a high-achieving **BCA (Honours) student with a 9.40 CGPA**, bridging the g
 
 ---
 
-## 🤝 Let's Connect!
 
 - 💼 **LinkedIn:** [/in/rahulbiswas224](https://linkedin.com/in/rahulbiswas224)
 - 📧 **Email:** [rahulbiswas006677@gmail.com](mailto:rahulbiswas006677@gmail.com)
