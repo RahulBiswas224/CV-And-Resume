@@ -85,8 +85,7 @@ I am a high-achieving **BCA (Honours) student with a 9.40 CGPA**, bridging the g
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulBiswas224&show_icons=true&theme=tokyonight&count_private=true" alt="Rahul's GitHub Stats" />
   <br />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=RahulBiswas224&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+ </p>
 
 ---
 
